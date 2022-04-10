@@ -1,0 +1,58 @@
+
+body{
+    width:100vw;
+    height:100vh;
+    background-image:url(https://th.bing.com/th/id/OIP.SaingLBXumRax9Q0vBrdbAHaE8?pid=ImgDet&rs=1);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.top{
+    
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:WHITE;
+    font-size: 25PX;
+}
+.container{
+width:40vw;
+display: flex;
+align-items: center;
+justify-content:center;
+flex-direction: column;
+margin-left: 30vw;
+
+font-size: 25PX;
+color: black;
+
+}
+.search{
+    width:20vw;
+    height: 5vh;
+    font-size: x-large;
+    font-family: sans-serif;
+}
+.btn 
+{
+    height:5vh;
+    font-size:x-large}
+
+    .container{
+        margin-top: 30px;
+        background-color: aliceblue;
+        border-radius: 2%;
+        margin-bottom: 20px;
+        padding:10px
+    }
+
+.emoji{
+    color:orange
+}
+.date{
+    height:5vh;
+    width:20vw;
+    background-color:none;
+    margin-left: 40vw;
+    font-size: larger;
+}
